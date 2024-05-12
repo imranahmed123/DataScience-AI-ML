@@ -1,2 +1,2 @@
 # DataScienceAIML
-DataScienceAIML - GEN AI - IISc
+DataScienceAIML - GEN AI
